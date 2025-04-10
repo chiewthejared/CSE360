@@ -1,6 +1,3 @@
-CSE360
+Entire HW4 is in the zip file. Just donwload and import it into Eclipse as a new project.
 
-Entire HW3 code is in the ZIP file, just add that as a new project in Eclipse and it will be good to go.
-The JUnit and JDK is included in the ZIP file.
-
-Screencast - https://drive.google.com/file/d/1zGZUh6OMzjZBWShtcadiKz3IKDQerYxM/view?usp=drive_link
+Screencast - 
